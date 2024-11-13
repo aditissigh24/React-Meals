@@ -10,6 +10,22 @@ html {
 
 body {
   margin: 0;
-  background-color: #3f3f3f;
+  background-color: var(--body_background);
+  color: var(--body_color);
 }
 
+:root{
+  --body_background:  #f9f7f7;
+  --body_color: #383838;
+  --head_color: #8a2b06;
+  --btn_color: #5a1a01;
+  --badge_color: #b94517;
+
+}
+[data-theme='dark']{
+  --body_background:  #B2B5E0;
+  --body_color: #4F0341;
+  --head_color: #C5ADC5;
+  --btn_color:#002349;
+  --badge_color:#C5ADC5;
+}
