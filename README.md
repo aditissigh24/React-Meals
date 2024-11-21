@@ -9,6 +9,8 @@ Welcome to the Restaurant Meals App, a simple and elegant web application for br
 -Manage Cart: Update item quantities, remove items, and view the total price in real-time.  
 -Responsive Design: Styled with CSS to look great on all devices, from mobile to desktop.  
 -Smooth Animations: Elegant animations for adding and removing items from the cart.
+## Live link
+https://restaurant-project-tau-seven.vercel.app/
 
 ## Tech Stack
 
