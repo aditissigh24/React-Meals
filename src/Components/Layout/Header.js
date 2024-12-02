@@ -7,7 +7,7 @@ import DarkMode from "./DarkMode";
 const Header = props =>{
     return <Fragment>
         <header className={classes.header}>
-            <h1> Hungryyy</h1>
+            <h1> Food Mafia</h1>
             <DarkMode/>
             <HeaderCartButton onClick={props.onShowCart}/>
         </header>
