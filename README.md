@@ -1,6 +1,6 @@
-# Restaurant Meals Proeject
+# React Meals Project
 
-Welcome to the Restaurant Meals App, a simple and elegant web application for browsing meals, managing a shopping cart, and placing orders. Built with a focus on beautiful CSS styling and a smooth user experience, this project provides an intuitive interface for adding, removing, and updating meal orders within the cart.
+Welcome to the React Meals App, a simple and elegant web application for browsing meals, managing a shopping cart, and placing orders. Built with a focus on beautiful CSS styling and a smooth user experience, this project provides an intuitive interface for adding, removing, and updating meal orders within the cart.
 
 ## Features
 
